@@ -1,0 +1,23 @@
+form{
+    background-color: blue;
+    width: 200px;
+    padding: 20px;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+}
+.cantainer{
+    border: dotted aqua 5px;
+    padding: 80px;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    
+    
+}
+body{
+    background-image: url(https://cf.bstatic.com/xdata/images/hotel/max1024x768/454041171.jpg?k=7937de3aa44865b553e25cc1e36a86a6d257a42021e1daa0672a90d5b273ecf7&o=&hp=1);
+    width: 1000px;
+    height: 1000px;
+  background-repeat: no-repeat;
+}
